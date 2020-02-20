@@ -31,7 +31,7 @@
 		}
 	},
 	"require": {
-		"php": "~7.0",
+		"php": "~7.1",
 		"monolog/monolog": "~1.1",
 		"tracy/tracy": "~2.4.0"
 	},
